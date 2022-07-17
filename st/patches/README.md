@@ -6,3 +6,5 @@ https://suckless.org/hacking/
 cd program-directory
 git apply path/to/patch.diff
 ```
+
+`cp config.def.h config.h`
