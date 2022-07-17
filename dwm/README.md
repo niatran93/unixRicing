@@ -1,5 +1,5 @@
 # dwm - dynamic window manager
 
-## Configs
+## Config
 
 - static const int resizehints = 0;
