@@ -5,4 +5,10 @@
 
 ## Config
 
-- static const int resizehints = 0;
+- `static const int resizehints = 0;`
+- Space around font in dwm's bar
+```c
+dwm.c
+
+bh = drw->fonts->h + 10;
+```
