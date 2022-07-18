@@ -1,5 +1,5 @@
 # unixRicing
 
 - Fonts
-  - dwm: Liberation Mono
+  - dwm + dmenu: Liberation Mono
   - st: Hack
