@@ -5,7 +5,8 @@
 
 ## Config
 
-- `static const int resizehints = 0;`
+- Fixing gaps around terminal windows  
+`static const int resizehints = 0;`
 - Space around font in dwm's bar
 ```c
 dwm.c
