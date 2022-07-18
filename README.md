@@ -20,7 +20,7 @@
   - on VMwareWorkstation: Preferences>Input>Cursor>Optimize mouse for games: Always  
 `xdotool getmouselocation`  
 `xdotool mousemove -screen 0 1920 1080`
-    - with fishshell: `alias -s mm="xdotool mousemove -screen 0 1920 1080"`
+    - with fishshell: `alias -s mm="xdotool mousemove 10000 0"`
 
 ## on Arch Linux
 `sudo pacman -S picom hsetroot xautolock xcape slock xdotool`
