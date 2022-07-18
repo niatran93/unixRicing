@@ -1,2 +1,2 @@
-# slstatus - a status monitor for window managers that use WM_NAME or stdin to fill the status bar.
+# slstatus - a status monitor
 `git clone https://git.suckless.org/slstatus`
