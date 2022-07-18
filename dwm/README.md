@@ -1,4 +1,5 @@
 # dwm - dynamic window manager
+`git clone https://git.suckless.org/dwm`
 
 ## Config
 
