@@ -3,6 +3,8 @@
 - Fonts
   - dwm + dmenu: Liberation Mono
   - st: Hack
+- Theme
+  - Arc-Dark: `arc-gtk-theme`
 - picom
   - with dwm  
 `picom <any other arguments> --focus-exclude "x = 0 && y = 0 && override_redirect = true"`
