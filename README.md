@@ -16,6 +16,9 @@
 `xcape -e 'Caps_Lock=Escape;Control_L=Control_L|O'`
 - setkbmap  
 `setxkbmap -option caps:ctrl_modifier -option shift:both_capslock -option altwin:swap_lalt_lwi`
+- xdotool  
+`xdotool getmouselocation`
+`xdotool mousemove -screen 0 1920 1080`
 
 ## on Arch Linux
-`sudo pacman -S picom hsetroot xautolock xcape slock`
+`sudo pacman -S picom hsetroot xautolock xcape slock xdotool`
