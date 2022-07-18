@@ -5,6 +5,8 @@
   - st: Hack
 - Theme
   - Arc-Dark: `arc-solid-gtk-theme`
+- Icon
+  - Papirus Dark: `papirus-icon-theme`
 - picom
   - with dwm  
 `picom <any other arguments> --focus-exclude "x = 0 && y = 0 && override_redirect = true"`
