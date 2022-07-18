@@ -16,8 +16,9 @@
 `xcape -e 'Caps_Lock=Escape;Control_L=Control_L|O'`
 - setkbmap  
 `setxkbmap -option caps:ctrl_modifier -option shift:both_capslock -option altwin:swap_lalt_lwi`
-- xdotool  
-`xdotool getmouselocation`
+- xdotool
+  - on VMwareWorkstation: Preferences>Input>Cursor>Optimize mouse for games: Always  
+`xdotool getmouselocation`  
 `xdotool mousemove -screen 0 1920 1080`
 
 ## on Arch Linux
