@@ -13,3 +13,5 @@ dwm.c
 
 bh = drw->fonts->h + 10;
 ```
+- Change Mod key https://dwm.suckless.org/customisation/windows_key/  
+`Mod4Mask`
