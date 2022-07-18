@@ -1,5 +1,7 @@
 # dwm - dynamic window manager
-`git clone https://git.suckless.org/dwm`
+`git clone https://git.suckless.org/dwm`  
+`cp config.def.h config.h`  
+`sudo make clean install`
 
 ## Config
 
