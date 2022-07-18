@@ -19,9 +19,9 @@
 - setkbmap  
 `setxkbmap -option caps:ctrl_modifier -option shift:both_capslock -option altwin:swap_lalt_lwi`
 - xdotool
-  - on VMwareWorkstation: Preferences>Input>Cursor>Optimize mouse for games: Always  
+  - on VMwareWorkstation: Preferences>Input>Cursor>Optimize mouse for games: Always + untick Hide cursor on ungrab  
 `xdotool getmouselocation`  
-`xdotool mousemove -screen 0 1920 1080`
+`xdotool mousemove -screen 0 10000 10000`
     - with fishshell: `alias -s mm="xdotool mousemove 10000 10000"`
 
 ## on Arch Linux
