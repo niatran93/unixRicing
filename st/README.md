@@ -12,3 +12,4 @@
 
 ## Config
 - *font = pixelsize > size
+- Right mouse to paste: Button2 > 3 selpaste
