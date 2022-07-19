@@ -36,6 +36,7 @@ mouse.vusb.useBasicMouse = "FALSE"
   - with fishshell: `alias -s mm="xdotool mousemove 10000 10000"`
 
 ## on Arch Linux
-`sudo pacman -S picom hsetroot xautolock xcape slock xdotool`
+`sudo pacman -S picom hsetroot xautolock xcape slock xdotool`  
+`yay -S xbanish`
 
 - Improve Font Rendering https://wiki.manjaro.org/index.php/Improve_Font_Rendering
