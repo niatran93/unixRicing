@@ -10,6 +10,8 @@ setxkbmap -option caps:ctrl_modifier -option shift:both_capslock -option altwin:
 
 xcape -e 'Caps_Lock=Escape;Control_L=Control_L|O' &
 
+xbanish &
+
 vmware-user &
 
 exec dwm
