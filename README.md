@@ -1,8 +1,9 @@
 # unixRicing
 
 ## Docs
-- [Arch Linux](docs/archLinux.md)
+- [Cheat Sheet](docs/cheatsheet.md)
 - [Linux General](docs/linux.md)
+- [Arch Linux](docs/archLinux.md)
 
 ## Config
 
