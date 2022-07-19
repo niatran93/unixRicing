@@ -1,8 +1,8 @@
 # unixRicing
 
 ## Docs
-- [Arch Linux](archLinux.md)
-- [Linux General](linux.md)
+- [Arch Linux](docs/archLinux.md)
+- [Linux General](docs/linux.md)
 
 ## Config
 
