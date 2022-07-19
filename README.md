@@ -1,5 +1,11 @@
 # unixRicing
 
+## Docs
+- [Arch Linux](archLinux.md)
+- [Linux General](linux.md)
+
+## Config
+
 - Fonts
   - dwm + dmenu: Liberation Mono
   - st: Hack
