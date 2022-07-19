@@ -3,7 +3,7 @@ https://fishshell.com/
 
 ## Path
 `~/.config/fish/config.fish`  
-`~/.config/fish/fish_variables`
+`~/.config/fish/fish_variables`  
 `~/.config/fish/functions/`
 
 ## Config
