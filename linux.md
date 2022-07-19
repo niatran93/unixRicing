@@ -2,6 +2,7 @@
 
 # CLI
 
+- [commandlinefu.com](https://www.commandlinefu.com/commands/browse)
 - cheat.sh https://github.com/chubin/cheat.sh
 
 `curl cheat.sh/<comamnd-to-search>`  
