@@ -11,5 +11,7 @@
 curl -s https://cht.sh/:cht.sh | sudo tee /usr/local/bin/cht.sh && sudo chmod +x /usr/local/bin/cht.sh
 ```  
 `cht.sh <comamnd-to-search>`
+  - shell: install `xsel rlwrap`  
+`cht.sh --shell`
 
 - duf https://github.com/muesli/duf
