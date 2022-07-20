@@ -16,14 +16,14 @@ function up() {
     if (window.scrollByLines)
 	window.scrollByLines(-1); // gecko
     else
-	window.scrollBy(0, -12); // webkit
+	window.scrollBy(0, -30); // webkit
 }
 
 function down() {
     if (window.scrollByLines)
 	window.scrollByLines(1); // gecko
     else
-	window.scrollBy(0, 12); // webkit
+	window.scrollBy(0, 30); // webkit
 }
 
 function pageup() {
