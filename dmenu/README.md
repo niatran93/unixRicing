@@ -2,8 +2,7 @@
 `git clone https://git.suckless.org/dmenu`
 
 ## Scripts
-- dmenu_run with command history https://tools.suckless.org/dmenu/scripts/dmenu_run_with_command_history/  
-`cp dmenu_run_history dmenu_run`
+- run-recent : List recent commands first. End a command with ";" to run it in e terminal.
 
 ## Config
 - Space around font in dwm's bar
