@@ -2,7 +2,7 @@
 `git clone https://git.suckless.org/dmenu`
 
 ## Scripts
-- run-recent : List recent commands first. End a command with ";" to run it in e terminal.
+- dmenu_run : List recent commands first. End a command with ";" to run it in e terminal.
 
 ## Config
 - Space around font in dwm's bar
