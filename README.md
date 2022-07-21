@@ -1,7 +1,7 @@
 # unixRicing
 
 ## Docs
-- [Cheat Sheet](docs/cheatsheet.md)
+- [Cheat Sheet](docs/cheatSheet.md)
 - [Linux General](docs/linux.md)
 - [Arch Linux](docs/archLinux.md)
 
