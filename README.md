@@ -28,7 +28,7 @@
 - setkbmap  
 `setxkbmap -option caps:ctrl_modifier -option shift:both_capslock -option altwin:swap_lalt_lwi`
 - xdotool
-  - on VMwareWorkstation: Preferences>Input>Cursor>Optimize mouse for games: Automatic + untick Hide cursor on ungrab + untick Automatically grap and ungrap the mouse  
+  - on VMwareWorkstation: Preferences>Input>Cursor>Optimize mouse for games: Never + untick Hide cursor on ungrab + untick Automatically grap and ungrap the mouse  
 
 ```
 ~/vmware/<Virtual Machine name>/<Virtual Machine name>.vmx
