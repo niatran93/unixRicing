@@ -3,6 +3,12 @@
 `cp config.def.h config.h`  
 `sudo make clean install`
 
+## Patches
+
+- pertag https://dwm.suckless.org/patches/pertag/
+- fullgaps https://dwm.suckless.org/patches/fullgaps/
+- removeborder https://dwm.suckless.org/patches/removeborder/
+
 ## Config
 
 - Fixing gaps around terminal windows  
