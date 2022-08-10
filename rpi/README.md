@@ -11,3 +11,5 @@
 `sudo apt install libgcr-3-dev libwebkit2gtk-4.0-dev`
 - install fonts  
 `sudo apt install fonts-hack-ttf xfonts-terminus`
+- install tools  
+`sudo apt install slock xbanish xdotool`
