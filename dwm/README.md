@@ -11,7 +11,8 @@
 - pertag https://dwm.suckless.org/patches/pertag/
 - fullgaps https://dwm.suckless.org/patches/fullgaps/
 - removeborder https://dwm.suckless.org/patches/removeborder/
-- uselessgap https://dwm.suckless.org/patches/uselessgap/
+- https://dwm.suckless.org/patches/ewmhtags/
+- https://dwm.suckless.org/patches/focusonnetactive/
 
 ## Changelog
 
