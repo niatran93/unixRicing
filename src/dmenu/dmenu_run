@@ -46,5 +46,3 @@ awk -v histfile=$historyfile '
                         for (f in history)
                                 print history[f],f | "sort -t '\t' -k1rn >" histfile
                 }
-        ' \
-        | while read cmd; do ${SHELL:-"/bin/sh"} -c "$cmd" & done
