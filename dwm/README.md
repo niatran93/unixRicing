@@ -10,17 +10,17 @@
 - fullgaps https://dwm.suckless.org/patches/fullgaps/
 - removeborder https://dwm.suckless.org/patches/removeborder/
 
-## Config
+## Changelogs
 
-~~- Fixing gaps around terminal windows~~  
-~~`static const int resizehints = 0;`~~
+- `XK_q` > `XK_Delete`
+- `XK_p` > `XK_s`
+- Change Mod key https://dwm.suckless.org/customisation/windows_key/  
+`Mod4Mask` = Win, `Mod1Mask` = Alt
 - Space around font in dwm's bar
-
 ```c
 dwm.c
 
 bh = drw->fonts->h + 10;
 ```
-
-- Change Mod key https://dwm.suckless.org/customisation/windows_key/  
-`Mod4Mask` = Win, `Mod1Mask` = Alt
+~~- Fixing gaps around terminal windows~~  
+~~`static const int resizehints = 0;`~~
