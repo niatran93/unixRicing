@@ -9,5 +9,5 @@
 `sudo apt install make gcc libx11-dev libxft-dev libxinerama-dev`
 - install surf  
 `sudo apt install libgcr-3-dev libwebkit2gtk-4.0-dev`
-- install fonts
+- install fonts  
 `sudo apt install fonts-hack-ttf xfonts-terminus`
