@@ -3,6 +3,9 @@
 `cp config.def.h config.h`  
 `sudo make clean install`
 
+## Infos
+- https://coggle.it/diagram/X9IiSSM6PTWOM9Wz/t/dwm-patches-last-tallied-2022-03-17
+
 ## Patches
 
 - pertag https://dwm.suckless.org/patches/pertag/
