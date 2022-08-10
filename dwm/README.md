@@ -6,9 +6,9 @@
 ## Patches
 
 - pertag https://dwm.suckless.org/patches/pertag/
-- uselessgap https://dwm.suckless.org/patches/uselessgap/
 - fullgaps https://dwm.suckless.org/patches/fullgaps/
 - removeborder https://dwm.suckless.org/patches/removeborder/
+- uselessgap https://dwm.suckless.org/patches/uselessgap/
 
 ## Changelog
 
