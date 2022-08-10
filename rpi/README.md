@@ -13,3 +13,7 @@
 `sudo apt install fonts-hack-ttf xfonts-terminus`
 - install tools  
 `sudo apt install slock xbanish xdotool`
+- install btop  
+`wget -qO btop.tbz https://github.com/aristocratos/btop/releases/latest/download/btop-armv7l-linux-musleabihf.tbz`  
+`sudo tar xf btop.tbz -C /usr/local bin/btop`  
+`rm btop.tbz`
