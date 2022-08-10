@@ -2,3 +2,4 @@
 
 ## Config
 - set default browser: `xdg-settings set default-web-browser surf.desktop`
+- `sudo mkdir /usr/share/desktop-directories/`
