@@ -1,4 +1,4 @@
 # rofi
 
-## Path
+## Path:
 `.config/rofi/config.rasi`
