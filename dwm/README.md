@@ -10,7 +10,7 @@
 - fullgaps https://dwm.suckless.org/patches/fullgaps/
 - removeborder https://dwm.suckless.org/patches/removeborder/
 
-## Changelogs
+## Changelog
 
 - `XK_q` > `XK_Delete`
 - `XK_p` > `XK_s`
