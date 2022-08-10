@@ -19,5 +19,5 @@ if status --is-login
         exec startx
     end
 end
-```
-  - If you would like to remain logged in when the X session ends, remove `exec`.
+```  
+If you would like to remain logged in when the X session ends, remove `exec`.
