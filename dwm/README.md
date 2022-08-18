@@ -3,7 +3,13 @@
 `cp config.def.h config.h`  
 `sudo make clean install`
 
+## Dependencies
+
+- on Debian  
+`make gcc libx11-dev libxft-dev libxinerama-dev`
+
 ## Infos
+
 - https://coggle.it/diagram/X9IiSSM6PTWOM9Wz/t/dwm-patches-last-tallied-2022-03-17
 
 ## Patches

@@ -1,6 +1,0 @@
-- on Debian
-    - install `make gcc libx11-dev libxft-dev libxinerama-dev` for dwm
-    - for `surf`
-      - `sudo apt build-dep surf`
-      - install `xdg-utils`
-      - `sudo mkdir /usr/share/desktop-directories/`
