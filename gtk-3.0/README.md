@@ -6,4 +6,5 @@
 
 `sudo pacman -S arc-solid-gtk-theme papirus-icon-theme
 
-## PATH: `.config/gtk-3.0/settings.ini`
+## PATH
+`.config/gtk-3.0/settings.ini`
