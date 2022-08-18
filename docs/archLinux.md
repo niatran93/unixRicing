@@ -15,7 +15,7 @@ export TMPFILE="$(mktemp)"; \
 - Reflector https://xyne.dev/projects/reflector/
 
 `sudo pacman -S reflector`  
-`sudo reflector --latest 10 --protocol https --sort rate --save /etc/pacman.d/mirrorlist`
+`sudo reflector --latest 5 --protocol http,https --sort rate --save /etc/pacman.d/mirrorlist`
 
 `sudo pacman -Syu`
 
