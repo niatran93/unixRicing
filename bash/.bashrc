@@ -2,7 +2,7 @@
 # ~/.bashrc
 #
 
-exec fish -i
+fish -i
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
