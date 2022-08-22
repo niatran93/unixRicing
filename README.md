@@ -48,4 +48,4 @@ mouse.vusb.useBasicMouse = "FALSE"
 `sudo pacman -S picom hsetroot xautolock xcape slock xdotool`  
 `yay -S xbanish`
 
-- [Improve Font Rendering on Arch Linux](archLinux-ImproveFontRendering.md)
+- [Improve Font Rendering on Arch Linux](docs/archLinux-ImproveFontRendering.md)
