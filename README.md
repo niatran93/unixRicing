@@ -48,4 +48,4 @@ mouse.vusb.useBasicMouse = "FALSE"
 `sudo pacman -S picom hsetroot xautolock xcape slock xdotool`  
 `yay -S xbanish`
 
-- Improve Font Rendering https://wiki.manjaro.org/index.php/Improve_Font_Rendering
+- [Improve Font Rendering on Arch Linux](archLinux-ImproveFontRendering.md)
