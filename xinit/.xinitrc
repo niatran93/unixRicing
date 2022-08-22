@@ -1,4 +1,4 @@
-picom -i 0.2 --focus-exclude "x = 0 && y = 0 && override_redirect = true" &
+picom --backend glx --focus-exclude "x = 0 && y = 0 && override_redirect = true" -i 0.2 &
 
 hsetroot -solid darkslategray &
 
