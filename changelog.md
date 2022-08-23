@@ -1,3 +1,4 @@
 # Changelog
 
-- fish: colors ayu Dark
+- fish:
+  - colors: ayu Dark
