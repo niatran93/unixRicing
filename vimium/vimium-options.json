@@ -6,12 +6,40 @@
       "passKeys": ""
     },
     {
-      "pattern": "https?://boards.4channel.org/*",
-      "passKeys": "e,r,x"
+      "pattern": "https?://open.spotify.com/*",
+      "passKeys": ""
     },
     {
       "pattern": "https?://mail.proton.me/*",
       "passKeys": ""
+    },
+    {
+      "pattern": "https?://www.mechanical-keyboard.org/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://en.key-test.ru/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://10fastfingers.com/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://github.dev/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://typing.works/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://new.typing.works/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://boards.4channel.org/*",
+      "passKeys": "e,r"
     }
   ],
   "filterLinkHints": false,
