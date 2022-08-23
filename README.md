@@ -2,6 +2,8 @@
 
 https://github.dev/niatran93/unixRicing/blob/main/README.md
 
+- [Changelog](changelog.md)
+
 ## Docs
 - [Cheat Sheet](docs/cheatSheet.md)
 - [Linux General](docs/linux.md)
