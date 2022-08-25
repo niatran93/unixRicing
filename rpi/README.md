@@ -14,7 +14,7 @@
 - install surf  
 `sudo apt install libgcr-3-dev libwebkit2gtk-4.0-dev`
 - install tools  
-`sudo apt install hsetroot xbanish xdotool xdg-utils`
+`sudo apt install picom hsetroot xbanish xdotool xdg-utils`
 - install btop  
 `wget -qO btop.tbz https://github.com/aristocratos/btop/releases/latest/download/btop-armv7l-linux-musleabihf.tbz`  
 `sudo tar xf btop.tbz -C /usr/local bin/btop`  
