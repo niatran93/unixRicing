@@ -22,6 +22,9 @@
 
 ## Changelog
 
+- Add "movemouse"
+  - `static const char *mmcmd[] = { "xdotool", "mousemove", "10000", "10000", NULL };`
+  - `{ MODKEY, XK_Escape, spawn, {.v = mmcmd } },`
 - `XK_q` > `XK_Delete`
 - `XK_p` > `XK_s`
 - Change Mod key https://dwm.suckless.org/customisation/windows_key/  
