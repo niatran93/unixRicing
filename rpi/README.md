@@ -9,7 +9,7 @@
 `sudo apt install fonts-hack-ttf fonts-liberation` ~~xfonts-terminus~~
 - install dwm  
 `sudo apt install make gcc libx11-dev libxft-dev libxinerama-dev`
-- install slock
+- install slock  
 `sudo apt install libxrandr-dev`
 - install surf  
 `sudo apt install libgcr-3-dev libwebkit2gtk-4.0-dev`
