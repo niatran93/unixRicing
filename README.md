@@ -1,6 +1,6 @@
-# unixRicing
+<div align="right"><a href="https://github.dev/niatran93/unixRicing/blob/main/README.md">editor</a></div>
 
-https://github.dev/niatran93/unixRicing/blob/main/README.md
+# unixRicing
 
 - [Changelog](changelog.md)
 
